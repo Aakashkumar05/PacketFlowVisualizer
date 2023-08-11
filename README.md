@@ -3,7 +3,7 @@
 The main objective of this project is to create a visual representation of the packet flow
 from students&#39; laptops/desktops (hosts) to external networks outside of the college campus.
 
-The project can be divided into two key parts, as outlined below:
+The project can be divided into two key parts, as outlined below :
 
 1. <B>Network Topology Creation:</B> To begin, students will need to determine the
 devices present within the college network. They can achieve this by using tools like
